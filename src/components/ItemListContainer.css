@@ -1,0 +1,11 @@
+.contenedor {
+  padding: 50px;
+  text-align: center;
+  background-color: #f0f0f0;
+  min-height: 400px;
+}
+
+.contenedor h2 {
+  color: #333;
+  font-size: 28px;
+}
